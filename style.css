@@ -178,6 +178,7 @@ footer svg:hover path {
 @media (max-width: 768px) {
   .container .navbar-links {
     display: none;
+    font-size: 13px;
   }
   .container div button.btn-login {
     display: none;
