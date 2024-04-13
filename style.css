@@ -197,6 +197,9 @@ footer svg:hover path {
   p {
     font-size: 16px;
   }
+  main {
+    padding: 0 1rem;
+  }
 }
 
 /* Active class */
