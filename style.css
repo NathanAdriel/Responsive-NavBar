@@ -191,6 +191,12 @@ footer svg:hover path {
   .mobile-menu {
     position: relative;
   }
+  h1 {
+    font-size: 18px;
+  }
+  p {
+    font-size: 16px;
+  }
 }
 
 /* Active class */
